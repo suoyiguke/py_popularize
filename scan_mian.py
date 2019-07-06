@@ -2,16 +2,10 @@
 import sys
 import time
 from threading import Thread, Lock
-
-from apscheduler.schedulers.blocking import BlockingScheduler
 from cffi import lock
-from gerapy.spiders import json
-
 import logger
 log = logger.logger()
-log.debug('=================扫描程序开始==========================')
 sys.setrecursionlimit(1000000)
-import requests
 import yaml
 from bs4 import BeautifulSoup
 from dingtalkchatbot.chatbot import DingtalkChatbot
@@ -74,11 +68,11 @@ def getBrowser():
 
 def sendDingDing(bl,keyword):
     if bl:
-       print('检测到关键词: “' + keyword + '”在百度的第'+ object['page'] +'页,第'+object['article ']+'条')
-       # xiaoding.send_text(msg='检测到关键词: “' + keyword + '”在百度的第'+ object['page'] +'页,第'+object['article ']+'条')
+       # print('检测到关键词: “' + keyword + '”在百度的第'+ object['page'] +'页,第'+object['article ']+'条')
+       xiaoding.send_text(msg='检测到关键词: “' + keyword + '”在百度的第'+ object['page'] +'页,第'+object['article ']+'条')
     else:
-       print('检测到关键词: “' + keyword + '”没有被百度收录')
-       # xiaoding.send_text(msg='检测到关键词: “' + keyword + '”没有被百度收录')
+       # print('检测到关键词: “' + keyword + '”没有被百度收录')
+       xiaoding.send_text(msg='检测到关键词: “' + keyword + '”没有被百度收录')
 
 def threadSend(keyword,):
     browser = getBrowser()
@@ -91,7 +85,6 @@ def threadSend(keyword,):
     resolution_page(browser.page_source, browser)
     selectors = browser.find_elements_by_css_selector('.n')
     if len(selectors) == 0 or selectors[0].text.find('下一页') == -1:
-        print('没找到！')
         sendDingDing(False,keyword)
     else:
         sendDingDing(True,keyword)
@@ -134,6 +127,7 @@ def resolution_page(text,browser):
 
 
 def main():
+    log.debug('=================扫描程序开始==========================')
     # 线程list
     threads = []
     keywordList = object['keyword'].split(",")
@@ -145,6 +139,8 @@ def main():
 
     for t in threads:
         t.join()
+
+    log.debug('=================扫描程序结束==========================')
 
 
 
