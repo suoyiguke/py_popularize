@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76c804af-948e-45c8-b96c-1f5aa1621199" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/logname" beforeDir="false" afterPath="$PROJECT_DIR$/log/logname" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/logname.2019-07-01.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/logname.2019-07-05.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/scan_mian.py" beforeDir="false" afterPath="$PROJECT_DIR$/scan_mian.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,14 +16,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/popularize$zhihu_spider.coverage" NAME="zhihu_spider Coverage Results" MODIFIED="1562636520894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples/zhihu" />
     <SUITE FILE_PATH="coverage/scan_py$scan_mian.coverage" NAME="scan_mian Coverage Results" MODIFIED="1561962195546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/py_test$zz.coverage" NAME="zz Coverage Results" MODIFIED="1561539688123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
     <SUITE FILE_PATH="coverage/scan_py$zzzz.coverage" NAME="zzzz Coverage Results" MODIFIED="1561597574315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/popularize$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1562382534680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_test$ff.coverage" NAME="ff Coverage Results" MODIFIED="1561423693874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
-    <SUITE FILE_PATH="coverage/popularize$scan_mian.coverage" NAME="scan_mian Coverage Results" MODIFIED="1562400688223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/popularize$zz.coverage" NAME="zz Coverage Results" MODIFIED="1562637440212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/popularize$scan_mian.coverage" NAME="scan_mian Coverage Results" MODIFIED="1562665353007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_test$MyOrder.coverage" NAME="MyOrder Coverage Results" MODIFIED="1557044736013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/py_test$zz.coverage" NAME="zz Coverage Results" MODIFIED="1561539688123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/popularize$show.coverage" NAME="show Coverage Results" MODIFIED="1562571569474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/popularize$squid.coverage" NAME="squid Coverage Results" MODIFIED="1562634995027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/client" />
+    <SUITE FILE_PATH="coverage/popularize$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1562574957814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_test$cc.coverage" NAME="cc Coverage Results" MODIFIED="1561536292498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/popularize$kk.coverage" NAME="kk Coverage Results" MODIFIED="1562636207339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/scan_py$testzz.coverage" NAME="testzz Coverage Results" MODIFIED="1561961142984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
@@ -30,73 +36,38 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scan_mian.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="74" column="34" lean-forward="true" selection-start-line="74" selection-start-column="34" selection-end-line="74" selection-end-column="34" />
+            <state relative-caret-position="1550">
+              <caret line="263" lean-forward="true" selection-start-line="263" selection-end-line="263" />
               <folding>
-                <element signature="e#24#34#0" expanded="true" />
+                <element signature="e#24#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logger.py">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/support/event_firing_webdriver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-480">
-              <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-762">
+              <caret line="153" column="56" selection-start-line="153" selection-start-column="56" selection-end-line="153" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/log/logname">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/remote/webelement.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="636" column="48" selection-start-line="636" selection-start-column="48" selection-end-line="636" selection-end-column="48" />
+            <state relative-caret-position="110">
+              <caret line="752" column="62" selection-start-line="752" selection-start-column="62" selection-end-line="752" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/threading.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="581" column="8" selection-start-line="581" selection-start-column="8" selection-end-line="581" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/dingtalkchatbot/chatbot.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6812">
-              <caret line="84" column="19" selection-start-line="84" selection-end-line="85" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="150">
+              <caret line="862" column="12" selection-start-line="862" selection-start-column="12" selection-end-line="862" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -104,8 +75,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="19" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="229">
+              <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zz.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="344" column="8" selection-start-line="344" selection-start-column="8" selection-end-line="344" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -130,35 +140,35 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>lxml</find>
-      <find>main</find>
-      <find>has_ym</find>
-      <find>扫描</find>
-      <find>scan_url</find>
-      <find>zidonghua_html_noproxy</find>
-      <find>str</find>
-      <find>access_token</find>
-      <find>pageUrl</find>
-      <find>sle</find>
-      <find>print</find>
-      <find>next</find>
-      <find>next(</find>
-      <find>pageURL</find>
-      <find>url</find>
-      <find>pageURL</find>
-      <find>find_elements_by_css_selector</find>
-      <find>object['keyword']</find>
-      <find>browser</find>
-      <find>resolution_page</find>
-      <find>threadSend</find>
-      <find>popularize_keyword</find>
-      <find>keyword</find>
-      <find>xiaoding</find>
-      <find>sendDingDing</find>
-      <find>selectors</find>
-      <find>lock</find>
+      <find>requests</find>
+      <find>loads</find>
+      <find>browser_profile</find>
+      <find>options</find>
+      <find>webdriver</find>
+      <find>DesiredCapabilities</find>
+      <find>chrome_options</find>
+      <find>IPAgentsLen</find>
+      <find>ProxyFetcher</find>
+      <find>..</find>
+      <find>VALIDATED_ZHIHU_QUEUE</find>
+      <find>host</find>
+      <find>time</find>
       <find>sleep</find>
-      <find>click</find>
+      <find>下一页</find>
+      <find>IPAgents</find>
+      <find>检测到关键词</find>
+      <find>browser</find>
+      <find>baidu</find>
+      <find>in</find>
+      <find>str</find>
+      <find>zidonghua_html_noproxy</find>
+      <find>has_ym</find>
+      <find>soup</find>
+      <find>linkSet</find>
+      <find>下一页....</find>
+      <find>keyword</find>
+      <find>object['keyword']</find>
+      <find>resolution_page</find>
       <find>object</find>
     </findStrings>
     <replaceStrings>
@@ -188,9 +198,22 @@
         <option value="$PROJECT_DIR$/testzz.py" />
         <option value="$PROJECT_DIR$/log/logname.2019-06-27.log" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/test1.py" />
-        <option value="$PROJECT_DIR$/config.yml" />
         <option value="$PROJECT_DIR$/log/logname" />
+        <option value="$PROJECT_DIR$/show.py" />
+        <option value="$PROJECT_DIR$/test1.py" />
+        <option value="$PROJECT_DIR$/utils/redis_util.py" />
+        <option value="$PROJECT_DIR$/client/squid.py" />
+        <option value="$PROJECT_DIR$/config/rules.py" />
+        <option value="$PROJECT_DIR$/client/core.py" />
+        <option value="$PROJECT_DIR$/utils/err_trace.py" />
+        <option value="$PROJECT_DIR$/client/py_cli.py" />
+        <option value="$PROJECT_DIR$/kk.py" />
+        <option value="$PROJECT_DIR$/examples/zhihu/zhihu_spider.py" />
+        <option value="$PROJECT_DIR$/examples/zhihu/controller.py" />
+        <option value="$PROJECT_DIR$/examples/zhihu/crawler.py" />
+        <option value="$PROJECT_DIR$/examples/zhihu/exporter.py" />
+        <option value="$PROJECT_DIR$/zz.py" />
+        <option value="$PROJECT_DIR$/config.yml" />
         <option value="$PROJECT_DIR$/scan_mian.py" />
       </list>
     </option>
@@ -218,7 +241,38 @@
             <path>
               <item name="popularize" type="b2602c69:ProjectViewProjectNode" />
               <item name="popularize" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="popularize" type="b2602c69:ProjectViewProjectNode" />
+              <item name="popularize" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="popularize" type="b2602c69:ProjectViewProjectNode" />
+              <item name="popularize" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="popularize" type="b2602c69:ProjectViewProjectNode" />
+              <item name="popularize" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="zhihu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="popularize" type="b2602c69:ProjectViewProjectNode" />
+              <item name="popularize" type="462c0819:PsiDirectoryNode" />
               <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="popularize" type="b2602c69:ProjectViewProjectNode" />
+              <item name="popularize" type="462c0819:PsiDirectoryNode" />
+              <item name="package" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="popularize" type="b2602c69:ProjectViewProjectNode" />
+              <item name="popularize" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -228,19 +282,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webpy" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\java\work\popularize" />
+      <recent name="E:\java\work\scan-py" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\java\work\scan-py" />
       <recent name="E:\java\work\scan-py\log" />
       <recent name="E:\java\work\py_test\venv\Include" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\java\work\scan-py" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -276,6 +331,28 @@
       <option name="OPTIONS" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="kk" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="scan_mian" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -298,7 +375,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="squid" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,12 +383,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/client" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client/squid.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,7 +397,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testzz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zhihu_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -328,12 +405,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/zhihu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testzz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/zhihu/zhihu_spider.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -350,34 +427,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\java\work\scan-py\scan_mian.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="zzzz" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="py_test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zzzz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -432,19 +487,19 @@
       <item itemvalue="Django tests.Unnamed" />
       <item itemvalue="Docker.zzz" />
       <item itemvalue="Docker.Dockerfile" />
-      <item itemvalue="Python.zz" />
-      <item itemvalue="Python.zzzz" />
       <item itemvalue="Python.scan_mian" />
-      <item itemvalue="Python.testzz" />
-      <item itemvalue="Python.test1" />
+      <item itemvalue="Python.zz" />
+      <item itemvalue="Python.squid" />
+      <item itemvalue="Python.kk" />
+      <item itemvalue="Python.zhihu_spider" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.scan_mian" />
-        <item itemvalue="Python.test1" />
-        <item itemvalue="Python.testzz" />
-        <item itemvalue="Python.zzzz" />
         <item itemvalue="Python.zz" />
+        <item itemvalue="Python.zhihu_spider" />
+        <item itemvalue="Python.kk" />
+        <item itemvalue="Python.squid" />
       </list>
     </recent_temporary>
   </component>
@@ -471,7 +526,9 @@
       <workItem from="1561963635981" duration="1408000" />
       <workItem from="1562322963227" duration="26000" />
       <workItem from="1562323186237" duration="1715000" />
-      <workItem from="1562375401963" duration="18066000" />
+      <workItem from="1562375401963" duration="18719000" />
+      <workItem from="1562547560561" duration="14556000" />
+      <workItem from="1562579671673" duration="23482000" />
     </task>
     <task id="LOCAL-00001" summary="剥离配置">
       <created>1561599130198</created>
@@ -501,11 +558,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561963677900</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="添加多个url到同个任务">
+      <created>1562400703958</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1562400703959</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107010000" />
+    <option name="totallyTimeSpent" value="145701000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -518,24 +582,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22014925" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22441365" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32939914" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.83528787" visible="true" weight="0.32296136" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8240938" weight="0.31866953" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="5" sideWeight="0.49946696" weight="0.32939914" />
-      <window_info anchor="bottom" id="Docker" order="6" sideWeight="0.7542644" weight="0.4062165" />
-      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.6823028" weight="0.3304721" />
+      <window_info anchor="bottom" id="TODO" order="5" sideWeight="0.4968017" weight="0.32939914" />
+      <window_info anchor="bottom" id="Docker" order="6" sideWeight="0.7510661" weight="0.4055794" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.7302772" visible="true" weight="0.3197425" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.16471216" side_tool="true" visible="true" weight="0.32296136" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4978678" weight="0.19098713" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4989339" weight="0.35193133" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.26972282" side_tool="true" visible="true" weight="0.3197425" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49573562" weight="0.19098713" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49573562" weight="0.35193133" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4978678" weight="0.32939914" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -605,14 +668,24 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test1.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="18" />
+          <url>file://$PROJECT_DIR$/show.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/zz.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/scan_mian.py</url>
-          <line>102</line>
-          <option name="timeStamp" value="41" />
+          <line>94</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scan_mian.py</url>
+          <line>209</line>
+          <option name="timeStamp" value="117" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -620,6 +693,7 @@
       <configuration name="PythonConfigurationType">
         <watch expression="al.parser_class" />
         <watch expression="al.can_be_empty_element" />
+        <watch expression="aList[0]._id" />
       </configuration>
     </watches-manager>
   </component>
@@ -635,68 +709,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/Include/test.py" />
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1229051315/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="4430" column="12" lean-forward="true" selection-start-line="4430" selection-start-column="12" selection-end-line="4430" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="386" selection-start-line="386" selection-end-line="386" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/result.csv" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="1241" column="44" selection-start-line="1241" selection-start-column="44" selection-end-line="1241" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/threading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="866" column="34" selection-start-line="866" selection-start-column="34" selection-end-line="866" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/MyOrder.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Include/cc.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Include/ff.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Include/zr.js" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/yaml/loader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzzz.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/adapters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12125">
-          <caret line="515" selection-start-line="515" selection-end-line="515" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7700">
-          <caret line="309" selection-start-line="309" selection-end-line="309" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1229051315/sys.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9050">
@@ -749,13 +761,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="1740" selection-start-line="1740" selection-end-line="1740" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1607">
@@ -765,15 +770,247 @@
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/dingtalkchatbot/chatbot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6812">
+        <state relative-caret-position="2025">
           <caret line="84" column="19" selection-start-line="84" selection-end-line="85" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="581" column="8" selection-start-line="581" selection-start-column="8" selection-end-line="581" selection-end-column="8" />
+        <state relative-caret-position="28350">
+          <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2350">
+          <caret line="94" column="8" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/chrome/options.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2200">
+          <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
+          <folding>
+            <element signature="e#788#801#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/chrome/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1250">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/client.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/redis_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/functools.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="e#56#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/logname.2019-07-06.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/rules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/squid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/scrapy_middleware.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#49#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/err_trace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/redis/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="579" column="17" selection-start-line="579" selection-start-column="17" selection-end-line="579" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#62#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="311" selection-start-line="311" selection-end-line="311" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/zhihu/configs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="16" column="21" selection-start-line="16" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/zhihu/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/zhihu/zhihu_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="128" column="43" selection-start-line="128" selection-start-column="43" selection-end-line="128" selection-end-column="43" />
+          <folding>
+            <element signature="e#86#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/zhihu/exporter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/zhihu/crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/zhihu/controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/py_cli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="134" column="8" selection-start-line="134" selection-start-column="8" selection-end-line="134" selection-end-column="8" />
+          <folding>
+            <element signature="e#36#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="862" column="12" selection-start-line="862" selection-start-column="12" selection-end-line="862" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -784,53 +1021,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/remote/webelement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="636" column="48" selection-start-line="636" selection-start-column="48" selection-end-line="636" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        <state relative-caret-position="25">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/support/event_firing_webdriver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-480">
-          <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-762">
+          <caret line="153" column="56" selection-start-line="153" selection-start-column="56" selection-end-line="153" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/log/logname">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="752" column="62" selection-start-line="752" selection-start-column="62" selection-end-line="752" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="344" column="8" selection-start-line="344" selection-start-column="8" selection-end-line="344" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scan_mian.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="74" column="34" lean-forward="true" selection-start-line="74" selection-start-column="34" selection-end-line="74" selection-end-column="34" />
+        <state relative-caret-position="1550">
+          <caret line="263" lean-forward="true" selection-start-line="263" selection-end-line="263" />
           <folding>
-            <element signature="e#24#34#0" expanded="true" />
+            <element signature="e#24#35#0" expanded="true" />
           </folding>
         </state>
       </provider>

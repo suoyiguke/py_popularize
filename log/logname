@@ -1,11 +1,1092 @@
-2019-07-06 16:02:16 logger.py[line:96] DEBUG =================扫描程序结束==========================
-2019-07-06 16:04:54 logger.py[line:96] DEBUG =================扫描程序开始==========================
-2019-07-06 16:05:32 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026F4D3DCAC8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
-2019-07-06 16:05:35 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026F4D3DCBE0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
-2019-07-06 16:05:37 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026F4D3DCCF8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
-2019-07-06 16:05:39 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026F4D3DCE48>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
-2019-07-06 16:05:44 logger.py[line:90] ERROR 请检查好Chrome环境！
-2019-07-06 16:05:44 logger.py[line:90] ERROR 请检查好Chrome环境！
-2019-07-06 16:05:44 logger.py[line:90] ERROR 请检查好Chrome环境！
-2019-07-06 16:05:44 logger.py[line:90] ERROR 请检查好Chrome环境！
-2019-07-06 16:08:21 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 09:59:37 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 10:01:13 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 10:01:46 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B0BB5DAFD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:01:51 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:02:07 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B0BA0BF978>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:02:11 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:02:32 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B0BBF996A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:02:40 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:02:46 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B0BC0141D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:02:51 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:02:56 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 10:03:07 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 10:03:43 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 10:04:08 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022EA071DA20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:04:28 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022EA06A58D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:04:30 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022EA06A57F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:04:33 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022EA06A5A90>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:04:35 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:04:37 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:04:37 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:04:37 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:04:40 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 10:05:02 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 10:05:42 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002233C040CF8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:05:44 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002233C040358>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:05:46 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002233C040908>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:05:48 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002233C040550>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:05:54 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:05:54 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:05:54 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:05:54 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:06:19 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 10:07:06 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026C793CB9B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:07:11 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026C793B0828>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:07:13 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026C793B0518>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:07:15 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026C793B07B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:07:19 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:07:20 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:07:20 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:07:20 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:07:57 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 10:10:07 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 10:10:50 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029010077F60>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:10:52 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029010077C88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:10:55 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029010077A20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:10:57 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029010077CF8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:11:02 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:11:02 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:11:02 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:11:02 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:11:14 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 10:11:30 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 10:11:58 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2A3F3BEF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:12:03 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:13:05 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 10:13:36 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E20BBAE588>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:13:52 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E20C0A4E10>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:14:03 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E20BBAE470>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:14:06 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E20C0CE3C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 10:14:07 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:14:08 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:14:10 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:14:10 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 10:14:47 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 11:27:52 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 11:28:37 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EFB64D2A20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:28:39 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EFB64D29E8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:28:41 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EFB64D2048>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:28:43 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EFB64D24A8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:28:48 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:28:48 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:28:48 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:28:49 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:29:14 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 11:29:58 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 11:30:37 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000012FD0D1CFD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:30:40 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000012FD0B4A160>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:30:44 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000012FD0BE2358>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:30:48 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:30:48 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:30:49 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:31:23 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000012FD0CE0C88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:31:27 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:33:22 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 11:34:00 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000167212E48D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:34:05 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000167212E45F8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:34:07 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000167212E4828>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:34:09 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000167212E40B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:34:13 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:34:14 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:34:14 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:34:14 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:34:14 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 11:34:47 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 11:35:27 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023206F92710>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:35:29 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023206F92CF8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:35:31 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023206F92CC0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:35:33 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023206F92DD8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:35:38 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:35:38 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:35:38 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:35:38 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:35:41 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 11:36:09 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 11:36:33 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 11:37:12 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019AB4202B38>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:37:15 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019AB4202D68>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:37:17 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019AB42028D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:37:19 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019AB4202390>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:37:24 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:37:24 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:37:24 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:37:24 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:37:27 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 11:38:23 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 11:38:48 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017E3CD87828>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:38:50 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017E3CDC9630>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:39:02 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017E3CD111D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:39:08 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:39:08 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:39:11 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017E3CDC9278>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:39:12 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:39:15 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:40:07 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 11:41:18 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 11:42:02 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B1F0C6F358>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:42:07 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B1F0C6F3C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:42:09 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B1F0D05F28>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:42:14 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B1F0CDA8D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:42:16 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:42:17 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:42:17 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:42:18 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:42:52 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 11:49:44 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 11:50:27 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D400C35748>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:50:29 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D400C359B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:50:34 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:50:34 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:50:57 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D400C35128>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:50:59 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D400C35080>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:51:04 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:51:04 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:51:07 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 11:52:29 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 11:53:03 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002961D6FE278>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:53:08 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002961D6FE9E8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:53:12 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002961D69C630>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:53:17 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002961D69CBE0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:53:19 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:53:19 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:53:20 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:53:21 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:53:25 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 11:53:57 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 11:54:37 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F77D218390>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:54:39 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F77D2189B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:54:42 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F77D218A58>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:54:44 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F77D218D30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 11:54:49 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:54:49 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:54:49 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:54:49 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 11:54:53 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 12:00:32 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 12:01:05 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC8F4F14A8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:01:23 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:01:30 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:01:37 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC8F9D37B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:01:39 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC8F9D39E8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:01:42 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC8F9D3A90>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:01:46 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:01:46 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:01:46 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:01:52 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:01:52 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:01:52 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:02:36 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC8FA0C588>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:02:38 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC8FA0C400>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:02:41 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC8FA0C438>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:02:47 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC8F9D3978>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:02:50 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:02:50 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:02:50 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:02:52 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:02:53 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:02:53 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:02:55 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:03:00 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:03:19 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC8FA3EDD8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:03:32 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:03:35 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:03:41 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC8FA40E10>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:03:44 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC8FA40D68>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:03:48 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:03:48 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:03:52 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:03:52 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:04:16 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC8FA7DCF8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:04:25 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC8FA7D7B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:04:34 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:04:34 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC8FA40B38>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:04:37 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:04:37 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:04:39 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:05:01 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:05:12 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC8FA60978>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:05:22 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:05:25 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC8FA889B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:05:29 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:05:33 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:06:25 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC8FC825C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:06:28 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC8FC82CF8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:06:32 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:06:32 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:06:36 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:06:37 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:07:06 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC8FBA4898>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:07:10 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:07:23 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC90D35F98>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:07:27 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:07:51 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:08:24 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC9107BD68>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:08:28 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:08:32 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:09:01 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC912B4F28>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:09:05 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:09:09 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:09:55 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC9275CF98>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:09:59 logger.py[line:90] ERROR Message: unknown error: Element <a href="/s?wd=%E6%A9%99%E6%B8%B8&amp;pn=300&amp;oq=%E6%A9%99%E6%B8%B8&amp;ie=utf-8&amp;usm=1&amp;rsv_idx=1&amp;rsv_pq=dde6e181000b6521&amp;rsv_t=a90fHBJ5moL4iPZTbMTdmRssAcMdt7jCkVbuzxMShzNe%2F%2Fh9y7RZSHtn7D4&amp;rsv_page=1" class="n">...</a> is not clickable at point (712, 864). Other element would receive the click: <div id="_mask" style="opacity: 0.3; position: absolute; background: rgb(255, 255, 255); z-index: 300; top: 93px; left: 0px; width: 1000px; height: 1396px;"></div>
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:10:00 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:10:03 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:10:33 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC9285D240>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:10:37 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:10:41 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:10:59 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC92873630>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:11:03 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:11:07 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:11:29 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC9285D240>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:11:33 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:12:07 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC92870C50>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:12:12 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:12:15 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 12:12:45 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC92870F28>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 12:12:49 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 12:16:57 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 13:45:38 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 13:46:20 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000231065B1C18>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:46:32 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002310654E860>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:46:34 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002310654ED30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:46:36 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002310654E6D8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:46:39 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:46:41 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:46:41 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:46:41 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:46:42 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:46:44 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:46:44 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:46:44 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:47:13 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023106623978>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:47:28 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002310681D0F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:47:40 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002310654EA58>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:47:42 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002310654E320>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:47:43 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:47:44 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:47:47 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:47:47 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:47:48 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:47:50 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:47:50 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:48:13 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023106E37358>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:48:22 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:48:28 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023106E11400>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:48:32 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:48:32 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:48:36 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:48:48 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023106F903C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:49:06 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:49:07 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002310821CCC0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:49:10 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:49:11 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000231084B37B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:49:15 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:49:16 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:49:18 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:49:19 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:49:30 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000231085D3438>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:50:23 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 13:50:54 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B85F632E48>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:50:56 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B85F632400>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:51:01 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:51:01 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:51:14 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 13:52:02 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 13:52:29 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017DAFEF79B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:52:38 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017DAFEF7CC0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:52:41 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:52:42 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:52:47 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:52:49 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:53:27 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017DAFFBE860>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:53:32 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:53:41 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:53:43 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017DAFFBE470>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:53:48 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:53:54 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:54:28 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017DAFFBE9B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:54:30 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017DAFFBEEF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:54:35 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:54:35 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:54:41 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:54:55 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017DAFF19278>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:55:00 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:55:02 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:55:06 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:55:18 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017DB0005C88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:55:23 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:55:43 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017DB0BBA6D8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:55:48 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:55:57 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:56:04 logger.py[line:90] ERROR Message: unknown error: Element <a href="/s?wd=%E6%A9%99%E6%B8%B8&amp;pn=80&amp;oq=%E6%A9%99%E6%B8%B8&amp;ie=utf-8&amp;usm=1&amp;rsv_idx=1&amp;rsv_pq=dfb7524500119847&amp;rsv_t=9e36keFRQ2vvt5dduiBa0pqgl%2BnIo%2FV5rlYE8oir0jIeHNqS5zKp1H8LkQs&amp;rsv_page=1" class="n">...</a> is not clickable at point (712, 864). Other element would receive the click: <div id="wrapper_wrapper">...</div>
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:56:43 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017DB1C30EB8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:56:45 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017DB1C300F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:56:50 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:56:50 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:56:56 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:57:38 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017DB2044828>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:57:43 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:57:49 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:58:21 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017DB23DD198>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:58:26 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:58:32 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:59:10 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017DB24C2128>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:59:13 logger.py[line:90] ERROR Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:59:14 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:59:21 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 13:59:37 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017DB254F208>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 13:59:41 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 13:59:56 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017DB2538588>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:00:01 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:00:07 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:00:46 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017DB3B4B080>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:00:51 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:01:00 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:01:20 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017DB4FA50F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:01:25 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:01:31 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:01:46 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017DB4F9DEF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:01:50 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:01:57 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:02:15 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017DB398BC18>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:02:17 logger.py[line:90] ERROR Message: unknown error: Element <a href="/s?wd=%E6%A9%99%E6%B8%B8%E8%B5%84%E8%AE%AF&amp;pn=310&amp;oq=%E6%A9%99%E6%B8%B8%E8%B5%84%E8%AE%AF&amp;ie=utf-8&amp;rsv_idx=1&amp;rsv_pq=f7aff05a00182cd4&amp;rsv_t=f4bdB3a%2BCOo7%2Bh%2BbZ5rx0310mogBh%2Fn2qTfP%2B7JEcPvr0ixT1VIjR8E3Ob0&amp;rsv_page=1" class="n">...</a> is not clickable at point (712, 864). Other element would receive the click: <div id="wrapper_wrapper">...</div>
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:02:20 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:02:28 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 14:02:35 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 14:03:10 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C10E1322B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:03:15 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:07:12 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 14:07:30 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B2BBF6D198>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:07:34 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:07:49 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 14:08:01 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018D20C7AA90>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:08:05 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:08:12 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:08:23 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018D20E230B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:08:28 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:08:34 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:08:43 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 14:08:57 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024D79EE1198>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:09:02 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:09:08 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:10:05 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024D79FF8D68>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:10:10 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:10:16 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:10:51 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024D79FF8898>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:10:56 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:11:23 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:12:03 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024D7A0B7CF8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:12:08 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:13:43 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 14:21:16 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 14:21:30 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000184EC3A2978>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:21:35 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:21:41 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:21:55 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000184EC3D26A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:21:59 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:22:06 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:22:30 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000184EC3E9550>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:22:34 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:25:42 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 14:26:16 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025DB10EBFD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:26:21 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:27:19 logger.py[line:90] ERROR Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:27:35 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025DB1885CC0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:27:40 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:36:34 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 14:36:51 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 14:37:17 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D408BFBB38>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:37:21 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:37:28 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:38:00 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D408E17588>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:38:05 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:38:11 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:38:25 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D408DDFEF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:38:30 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:40:06 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="32"]"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:41:11 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 14:41:29 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B22DDA31D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:41:34 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:41:41 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:42:00 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B22DEBEB70>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:42:05 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:43:02 logger.py[line:90] ERROR Message: unknown error: Element <a href="/s?wd=%E6%A9%99%E6%B8%B8%E8%B5%84%E8%AE%AF&amp;pn=10&amp;oq=%E6%A9%99%E6%B8%B8%E8%B5%84%E8%AE%AF&amp;ie=utf-8&amp;rsv_idx=1&amp;rsv_pq=d53d30e7000b9cbf&amp;rsv_t=d14bWow9%2BLG7gUqekBnCZTknkX1FRhFAu0GLeMFcRu23hsxmWntSJ7cxd50&amp;rsv_page=1" class="n">...</a> is not clickable at point (615, 864). Other element would receive the click: <div id="_mask" style="opacity: 0.3; position: absolute; background: rgb(255, 255, 255); z-index: 300; top: 93px; left: 0px; width: 1000px; height: 1436px;"></div>
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:43:37 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B22E09B978>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:43:42 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:49:09 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 14:49:18 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 14:49:38 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019B9DE843C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:49:42 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:49:48 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:50:20 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019B9DFA9518>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:50:25 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:50:31 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:50:59 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019B9DFDDDA0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:51:04 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:51:10 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:51:26 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019B9DF4FAC8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:51:31 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:51:37 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:52:27 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019B9DF4F780>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:52:31 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:52:56 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:53:18 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019B9DBFF390>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:53:23 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:53:29 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:53:49 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019B9DD6C940>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:53:54 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:54:00 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:54:22 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019B9E295390>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:54:27 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:54:33 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:55:12 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019B9DD6C9E8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:55:17 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:55:24 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:55:43 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019B9DF4F668>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:55:48 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:55:54 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:56:14 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019B9E2955F8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:56:19 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:56:26 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:56:48 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019B9DFA9E80>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:56:53 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:56:59 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:57:32 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019B9E4C7F98>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:57:37 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:57:43 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:57:56 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 14:58:08 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001253A3886A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:58:12 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 14:58:36 logger.py[line:90] ERROR Message: invalid argument: 'value' must be a string
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 14:59:02 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 14:59:46 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000138B81BAA20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 14:59:51 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:01:41 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 15:02:47 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 15:03:03 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000278C8EF0C18>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:03:08 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:03:42 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 15:03:48 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 15:04:03 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021D566BFAC8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:04:08 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:04:41 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 15:05:01 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BBF2B77AC8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:05:05 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:05:12 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 15:05:33 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BBF2CA3470>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:05:38 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:05:44 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 15:06:00 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 15:06:15 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000182EC3D7208>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:06:20 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:06:26 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 15:06:42 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000182EC4E1400>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:06:47 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:08:55 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 15:09:01 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 15:09:21 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016883F18940>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:09:26 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:09:33 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 15:10:06 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000168840923C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:10:10 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:10:41 logger.py[line:90] ERROR Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 15:11:02 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 15:11:47 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026747708CC0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:11:51 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:11:58 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 15:12:11 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000267476B8B00>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:12:16 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:13:00 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 15:13:11 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 15:13:42 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002538C92B860>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:13:46 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:14:14 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 15:14:31 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002538CAC5908>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:14:36 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:14:42 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 15:15:32 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002538CC38198>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:15:37 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:15:43 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 15:15:58 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002538CAC5FD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:16:03 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:16:09 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 15:16:30 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002538CAC5390>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:17:12 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 15:17:28 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B5C6C97B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:17:33 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:21:51 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 15:22:13 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002D82310E828>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:22:17 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:22:56 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 15:23:37 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 15:23:58 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027CB0005F28>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:24:02 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:24:09 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 15:24:34 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027CB0194550>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:24:39 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:24:45 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 15:25:09 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027CB01C4630>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:25:14 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:26:41 logger.py[line:90] ERROR unsupported operand type(s) for -: 'str' and 'int'
+2019-07-09 15:28:12 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 15:28:47 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019F9D58BB70>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:28:52 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:28:58 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 15:29:34 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 15:29:45 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F710749F28>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:29:50 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:30:12 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"id","selector":"-7"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 15:30:24 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F7126FF2B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:30:28 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:31:14 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 15:31:25 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CBB946BC88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:31:29 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:32:18 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 15:32:29 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002443829E3C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:32:34 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:34:44 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 15:34:56 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F74FC58A90>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 15:35:01 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 15:35:27 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 16:09:04 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:09:16 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FE7B4E3550>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:09:20 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:09:39 logger.py[line:90] ERROR Message: unknown error: unhandled inspector error: {"code":-32000,"message":"Cannot navigate to invalid URL"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 16:09:48 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:09:59 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000231AC61F320>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:10:04 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:11:00 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:11:11 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025FBB983080>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:11:16 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:11:55 logger.py[line:90] ERROR Message: unknown error: unhandled inspector error: {"code":-32000,"message":"Cannot navigate to invalid URL"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 16:12:03 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:12:15 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002ABEF7750B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:12:32 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:12:43 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018F5204C9B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:12:48 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:13:20 logger.py[line:90] ERROR Message: unknown error: unhandled inspector error: {"code":-32000,"message":"Cannot navigate to invalid URL"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 16:13:56 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:14:07 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027B183D7FD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:14:12 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:14:25 logger.py[line:90] ERROR Message: unknown error: Element <a data-click="{
+			'F':'778317EA',
+			'F1':'9D73F1C4',
+			'F2':'4CA6DE6B',
+			'F3':'54E52437',
+			'T':'1562660060',
+						'y':'9FFDDEDD'
+			 
+									}" href="http://www.baidu.com/link?url=_-PYnpF8WiU7AOl3BkDWu73CIKzDpiCEo1qcsLGFiRa" target="_blank">...</a> is not clickable at point (157, 8). Other element would receive the click: <div class="s_form">...</div>
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 16:14:36 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027B1866DD68>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:14:48 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:14:59 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CAF1815C18>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:15:04 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:16:44 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:16:55 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023E227ED0F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:17:00 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:17:37 logger.py[line:90] ERROR Message: no such window: window was already closed
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 16:17:48 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023E246CD710>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:17:53 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:19:14 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:19:26 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020085D27710>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:19:30 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:19:45 logger.py[line:90] ERROR 'list' object has no attribute 'add'
+2019-07-09 16:19:56 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002008603FCF8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:20:01 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:20:21 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:20:33 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013FFB48FC18>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:20:37 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:20:57 logger.py[line:90] ERROR Message: unknown error: unhandled inspector error: {"code":-32000,"message":"Cannot navigate to invalid URL"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 16:21:09 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:21:20 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CDA67D8630>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:21:25 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:21:41 logger.py[line:90] ERROR Message: unknown error: Element <a data-click="{
+			'F':'778317EA',
+			'F1':'9D73F1C4',
+			'F2':'4CA6DE6B',
+			'F3':'54E52437',
+			'T':'1562660494',
+						'y':'FB76B3FE'
+			 
+									}" href="http://www.baidu.com/link?url=bC2c7zDQ7af2BrrCFTMbiysgcvKgyz_nFDjjZU5a8iC" target="_blank">...</a> is not clickable at point (157, 8). Other element would receive the click: <div class="s_form">...</div>
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 16:21:52 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CDA68762E8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:21:57 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:22:48 logger.py[line:90] ERROR 'list' object has no attribute 'add'
+2019-07-09 16:23:05 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:23:16 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002EECF5230B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:23:21 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:24:18 logger.py[line:90] ERROR Message: chrome not reachable
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 16:24:30 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002EED3A45438>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:24:35 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:27:01 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:27:12 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F9EE5EA2E8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:27:17 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:28:20 logger.py[line:90] ERROR Message: unknown error: Element is not clickable at point (1026, 39)
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 16:28:28 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:28:40 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201DAAD8BE0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:28:44 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:29:56 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:30:08 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CD2CD2D358>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:30:12 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:31:33 logger.py[line:90] ERROR Message: unknown error: Element is not clickable at point (1026, 39)
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 16:31:45 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CD2D3D1278>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:31:49 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:32:36 logger.py[line:90] ERROR Message: unknown error: Element is not clickable at point (1026, 39)
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 16:33:00 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:33:11 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021DB7291BE0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:33:15 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:33:30 logger.py[line:90] ERROR 'list' object has no attribute 'click'
+2019-07-09 16:33:42 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021DB74E79B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:33:46 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:34:01 logger.py[line:90] ERROR 'list' object has no attribute 'click'
+2019-07-09 16:34:13 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021DB7C860B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:34:17 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:40:42 logger.py[line:90] ERROR 'list' object has no attribute 'click'
+2019-07-09 16:40:53 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021DB93522E8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:40:58 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:43:49 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:44:00 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E6292EC080>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:44:05 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:44:59 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 16:50:09 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:50:21 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000150BFF18080>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:50:25 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:50:37 logger.py[line:90] ERROR resolution_page() missing 1 required positional argument: 'keyword'
+2019-07-09 16:50:48 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000150C00570B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:50:53 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:51:05 logger.py[line:90] ERROR resolution_page() missing 1 required positional argument: 'keyword'
+2019-07-09 16:51:16 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000150C05B59B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:51:21 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:51:33 logger.py[line:90] ERROR resolution_page() missing 1 required positional argument: 'keyword'
+2019-07-09 16:51:45 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000150C03FB390>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:51:49 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:52:01 logger.py[line:90] ERROR resolution_page() missing 1 required positional argument: 'keyword'
+2019-07-09 16:52:08 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:52:19 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D56FD0BF28>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:52:24 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:52:35 logger.py[line:90] ERROR Message: unknown error: Element <a href="/s?wd=%E6%A9%99%E6%B8%B8%E8%B5%84%E8%AE%AF&amp;pn=10&amp;oq=%E6%A9%99%E6%B8%B8%E8%B5%84%E8%AE%AF&amp;ie=utf-8&amp;rsv_idx=1&amp;rsv_pq=821b366600037156&amp;rsv_t=7a08Z63AJh%2BH83PtUslVDg1DMkH4n15gRB7ll2NSuIzfOG%2BGD2YdY9hiNaA&amp;rsv_page=1" class="n">...</a> is not clickable at point (615, 864). Other element would receive the click: <div id="wrapper_wrapper" style="display: block;">...</div>
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 16:52:46 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D56FF67080>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:52:51 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:53:02 logger.py[line:90] ERROR resolution_page() missing 1 required positional argument: 'keyword'
+2019-07-09 16:53:36 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:53:47 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001954C12C0F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:53:52 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:54:18 logger.py[line:90] ERROR resolution_page() missing 1 required positional argument: 'keyword'
+2019-07-09 16:54:30 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001954C912F98>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:54:34 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:55:08 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:55:20 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AB65B970B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:55:24 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 16:56:50 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 16:57:01 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000229A2E13128>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 16:57:06 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 17:00:12 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 17:00:23 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000225E2F980F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 17:00:28 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 17:03:46 logger.py[line:90] ERROR Message: unknown error: Element <a data-click="{
+			'F':'778317EA',
+			'F1':'9D73F1C4',
+			'F2':'4CA6DE6B',
+			'F3':'54E52437',
+			'T':'1562662836',
+						'y':'7FE3AFD7'
+			 
+									}" href="http://www.baidu.com/link?url=VyW7GI3nyPiHWkC1JOetzVFAfJBpccll_SgBVJ_-lw7" target="_blank">...</a> is not clickable at point (157, 8). Other element would receive the click: <div class="s_form">...</div>
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 17:04:42 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000225E3941CF8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 17:04:46 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 17:06:21 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 17:06:33 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212A12CD470>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 17:06:37 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 17:07:18 logger.py[line:90] ERROR Message: unknown error: Element is not clickable at point (1026, 39)
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 17:07:25 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 17:07:36 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CC5E393A20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 17:07:41 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 17:09:12 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 17:10:25 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 17:10:36 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016B5896F160>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 17:10:41 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 17:14:11 logger.py[line:90] ERROR Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 17:14:18 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 17:14:29 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000255B39AF0F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 17:14:34 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 17:15:32 logger.py[line:90] ERROR Message: unknown error: Element is not clickable at point (1026, 39)
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 17:15:38 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 17:15:49 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024E8D50E898>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 17:15:54 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 17:23:24 logger.py[line:90] ERROR Message: element not visible
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 17:23:35 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024E8DF8A630>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 17:23:40 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 17:33:42 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 17:33:54 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002D8355D20F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 17:33:58 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 17:34:26 logger.py[line:90] ERROR Message: unknown error: Element is not clickable at point (1026, 39)
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 17:34:37 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002D835C6BB70>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 17:34:42 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 17:35:48 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 17:35:59 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A1FF000B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 17:36:04 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 17:36:49 logger.py[line:90] ERROR Message: unknown error: Element is not clickable at point (1026, 39)
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 17:37:01 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A223E65C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 17:37:06 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 17:41:08 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 17:41:19 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000255B59D00F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 17:41:24 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 17:41:50 logger.py[line:90] ERROR Message: unknown error: Element is not clickable at point (1026, 39)
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 17:41:54 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-09 17:42:37 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-09 17:42:49 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000285317D66A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 17:42:54 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 17:43:00 logger.py[line:90] ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"#kw"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64)
+
+2019-07-09 17:43:19 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-scan', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000285318EDE80>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-09 17:43:24 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-09 17:44:18 logger.py[line:96] DEBUG =================扫描程序结束==========================
