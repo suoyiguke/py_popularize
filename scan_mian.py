@@ -138,7 +138,7 @@ def getBrowser():
     # chrome_options.add_argument('--proxy-server=' + getPxIp())
     try:
         browser = webdriver.Remote(
-            command_executor="http://chrome-scan:4444/wd/hub",
+            command_executor="http://chrome-flow:4444/wd/hub",
             desired_capabilities=DesiredCapabilities.CHROME,
             options=chrome_options
         )
