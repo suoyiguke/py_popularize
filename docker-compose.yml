@@ -1,10 +1,19 @@
-version: "2"
+version: '2'
 services:
-  scan:
-    image: scan_py:1
-    external_links:
-     - chrome
-    environment:
-      - scan_url=www.cyzxs.cn
-      - scan_access_token=3f69bd111a27ad41e6b609acb7b68d1f862d795c331840aa0d9a5abb9fbde223
-    network_mode: bridge
+  chrome-flow:
+     image: selenium/standalone-chrome:latest
+     container_name: chrome-flow
+     shm_size: 2g
+     restart: always
+
+  come-in-flow:
+     build:
+       context: .
+       dockerfile: ./Dockerfile
+     image: popularize:4
+     container_name: come-in-flow
+     environment:
+        popularize_access_token: 3f69bd111a27ad41e6b609acb7b68d1f862d795c331840aa0d9a5abb9fbde223
+        popularize_keyword: www.cyzxs.cn=橙游,橙游资讯,橙游官网,橙游app|www.yingmuzhi.cn=婴母知,婴母知官网,婴母知app,婴母知资讯
+     restart: always
+     command: python3.7  /code/scan_mian.py

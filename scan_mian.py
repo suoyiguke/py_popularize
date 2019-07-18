@@ -218,8 +218,6 @@ def resolution_page(url,text, browser,keyword):
 
     # 没找到就点击下一页继续
     else:
-        print('下一页....')
-
         selectors = browser.find_elements_by_css_selector('.n')
         flag = True
         for selector_ in selectors:
