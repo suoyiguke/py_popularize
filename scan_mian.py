@@ -41,7 +41,7 @@ historySet = set()
 global linkSet
 linkSet = set()
 
-if 'scan_url' in os.environ and 'scan_access_token' in os.environ:
+if 'popularize_keyword' in os.environ and 'popularize_access_token' in os.environ:
     access_token = os.environ['popularize_access_token']
     object['keyword'] = os.environ['popularize_keyword']
 else:
@@ -50,7 +50,7 @@ else:
         access_token = ymlFile['popularize_access_token']
         object['keyword'] = ymlFile['popularize_keyword']
 
-# # 初始化机器人小丁
+# # 初始化机器人小丁https://oapi.dingtalk.com/robot/send?access_token=68518eaa2d7012fc0bf9e0bb0eea9466090c7ef5547423f0ef4c537ea77b376e
 webhook = 'https://oapi.dingtalk.com/robot/send?access_token={access_token}'.format(access_token=access_token)  # 填写你自己创建的机器人
 xiaoding = DingtalkChatbot(webhook)
 
