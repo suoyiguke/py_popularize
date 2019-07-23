@@ -10,7 +10,7 @@ services:
      build:
        context: .
        dockerfile: ./Dockerfile
-     image: popularize:5
+     image: popularize:1
      container_name: come-in-flow
      environment:
         popularize_access_token: 68518eaa2d7012fc0bf9e0bb0eea9466090c7ef5547423f0ef4c537ea77b376e

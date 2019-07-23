@@ -23,23 +23,10 @@ global pageURL
 global xiaoding
 global ymlFile
 global access_token
-global object
 
-object = {}
 lock = Lock()
-
-global IPAgents
-IPAgents = []
-global IPAgentsLen
-IPAgentsLen = -1
-
-global localList
-localList = []
-global historySet
-historySet = set()
-
-global linkSet
-linkSet = set()
+global object
+object = {}
 
 if 'popularize_keyword' in os.environ and 'popularize_access_token' in os.environ:
     access_token = os.environ['popularize_access_token']
@@ -162,7 +149,7 @@ def sendDingDing(bl, keyword):
 
 
 def threadSend(url,keyword):
-    if 'page' not in object:
+    if  not object['page']:
         browser = getBrowser()
         time.sleep(2)
         browser.get('https://www.baidu.com/')
@@ -235,6 +222,22 @@ def resolution_page(url,text, browser,keyword):
 
 
 def main():
+    global IPAgents
+    IPAgents = []
+    global IPAgentsLen
+    IPAgentsLen = -1
+
+    global localList
+    localList = []
+    global historySet
+    historySet = set()
+
+    global linkSet
+    linkSet = set()
+
+
+
+
     # 初始化ip
     # initIP();
     log.debug('=================扫描程序开始==========================')
@@ -257,4 +260,9 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+
+    while True:
+        object['page'] = None
+        object['article '] = None
+        main()
+
