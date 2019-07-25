@@ -4,7 +4,6 @@ import time
 from threading import Thread, Lock
 
 import requests
-from apscheduler.schedulers.blocking import BlockingScheduler
 from cffi import lock
 from selenium.webdriver.chrome.options import Options
 
@@ -12,6 +11,7 @@ import logger
 from client.py_cli import ProxyFetcher
 
 log = logger.logger()
+time.sleep(10)
 sys.setrecursionlimit(1000000)
 import yaml
 from bs4 import BeautifulSoup
@@ -40,6 +40,8 @@ else:
         access_token = ymlFile['popularize_access_token']
         object['keyword'] = ymlFile['popularize_keyword']
         time_number = ymlFile["popularize_time"]
+
+
 
 # # 初始化机器人小丁https://oapi.dingtalk.com/robot/send?access_token=68518eaa2d7012fc0bf9e0bb0eea9466090c7ef5547423f0ef4c537ea77b376e
 webhook = 'https://oapi.dingtalk.com/robot/send?access_token={access_token}'.format(access_token=access_token)  # 填写你自己创建的机器人
