@@ -4,6 +4,7 @@ import time
 from threading import Thread, Lock
 
 import requests
+from apscheduler.schedulers.blocking import BlockingScheduler
 from cffi import lock
 from selenium.webdriver.chrome.options import Options
 
@@ -23,6 +24,7 @@ global pageURL
 global xiaoding
 global ymlFile
 global access_token
+global time_number
 
 lock = Lock()
 global object
@@ -31,11 +33,13 @@ object = {}
 if 'popularize_keyword' in os.environ and 'popularize_access_token' in os.environ:
     access_token = os.environ['popularize_access_token']
     object['keyword'] = os.environ['popularize_keyword']
+    time_number = os.environ["popularize_time"]
 else:
     with open('./config.yml', 'r', encoding="utf-8") as f:
         ymlFile = yaml.load(f.read(), Loader=yaml.FullLoader)
         access_token = ymlFile['popularize_access_token']
         object['keyword'] = ymlFile['popularize_keyword']
+        time_number = ymlFile["popularize_time"]
 
 # # 初始化机器人小丁https://oapi.dingtalk.com/robot/send?access_token=68518eaa2d7012fc0bf9e0bb0eea9466090c7ef5547423f0ef4c537ea77b376e
 webhook = 'https://oapi.dingtalk.com/robot/send?access_token={access_token}'.format(access_token=access_token)  # 填写你自己创建的机器人
@@ -222,6 +226,9 @@ def resolution_page(url,text, browser,keyword):
 
 
 def main():
+    object['page'] = None
+    object['article '] = None
+
     global IPAgents
     IPAgents = []
     global IPAgentsLen
@@ -261,8 +268,10 @@ def main():
 
 if __name__ == '__main__':
 
+    # 4小时
     while True:
         object['page'] = None
         object['article '] = None
         main()
+        time.sleep(int(time_number))
 

@@ -1,0 +1,53 @@
+2019-07-25 09:14:56 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-25 09:16:11 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018C65C51F60>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:16:13 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018C65C720F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:16:15 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018C65C72240>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:16:17 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018C65C72390>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:16:20 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018C65C724E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:16:22 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018C65C72630>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:16:24 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018C65C72780>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:16:26 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018C65C728D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:16:32 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:16:32 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:16:32 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:16:32 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:16:32 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:16:32 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:16:33 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:16:33 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:16:33 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-25 09:16:58 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-25 09:18:13 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022C93CFB668>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:18:15 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022C93CFB7B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:18:17 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022C93CFB908>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:18:19 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022C93CFBA58>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:18:22 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022C93CFBBA8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:18:24 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022C93CFBCF8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:18:26 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022C93CFBE48>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:18:28 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022C93CFBFD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:18:34 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:18:34 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:18:34 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:18:34 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:18:35 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:18:35 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:18:35 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:18:35 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:18:35 logger.py[line:96] DEBUG =================扫描程序结束==========================
+2019-07-25 09:20:35 logger.py[line:96] DEBUG =================扫描程序开始==========================
+2019-07-25 09:21:49 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000268C525C978>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:21:51 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000268C525CAC8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:21:53 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000268C525CC18>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:21:56 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000268C525CD68>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:21:58 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000268C525CEB8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:22:00 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000268C52C3080>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:22:02 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000268C52C3198>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:22:05 logger.py[line:90] ERROR HTTPConnectionPool(host='chrome-flow', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000268C52C32E8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-25 09:22:10 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:22:10 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:22:10 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:22:10 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:22:10 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:22:10 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:22:10 logger.py[line:90] ERROR 请检查好Chrome环境！
+2019-07-25 09:22:11 logger.py[line:90] ERROR 请检查好Chrome环境！
